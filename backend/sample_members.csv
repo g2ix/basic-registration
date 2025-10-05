@@ -1,0 +1,6 @@
+cooperative_id,first_name,middle_initial,last_name,work_email,personal_email,status,eligibility,member_type
+COOP-001,John,A,Smith,john.smith@company.com,john@personal.com,active,eligible,Regular
+COOP-002,Jane,,Doe,jane.doe@company.com,jane@personal.com,active,eligible,Associate
+COOP-003,Bob,B,Johnson,bob.johnson@company.com,bob@personal.com,dormant,not_eligible,Regular
+COOP-004,Alice,C,Williams,alice.williams@company.com,alice@personal.com,active,eligible,Associate
+COOP-005,Charlie,,Brown,charlie.brown@company.com,charlie@personal.com,active,eligible,Regular
